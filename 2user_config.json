@@ -1,0 +1,17 @@
+{
+  "extra_cmdline": {
+    "vid": "0x0781",
+    "pid": "0x5571",
+    "sn": "17A0PDN567301",
+    "netif_num":"2",
+    "mac1": "7085C280458F",
+    "mac2": "0011328F2C07"
+    },
+    "synoinfo": {
+    "maxdisks" : "16",
+    "internalportcfg" : "0xfff3",
+    "esataportcfg" : "0xc"
+    },
+    "ramdisk_copy": {},
+    "extensions": []
+}
